@@ -1,1 +1,1 @@
-# Basic, typical tic-tac-toe game
+# Basic, typical tic-tac-toe game in c++
