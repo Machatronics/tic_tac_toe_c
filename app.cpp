@@ -48,7 +48,7 @@ int main()
         Input();
         Draw();
         TogglePlayer();
+        system("pause");
     }
-    system("pause");
     return 0;
 }
